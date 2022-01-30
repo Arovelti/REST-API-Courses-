@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\Golang\\GoPL"
+		},
+		{
+			"path": "..\\ConsumeWS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.cwd": "M:/ConsumeWS"
+	}
+}
